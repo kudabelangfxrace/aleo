@@ -1,6 +1,6 @@
 # miner名称，不填使用电脑名
 # miner name, use the computer name without filling in
-minerName: rtx3090x2-1
+minerName: rtx3090x2-2
 # 在 https://www.hpool.in/center/configuration 找ApiKey
 # Find ApiKey at https://www.hpool.in/center/configuration
 apiKey: "aleo0000-4311-4e91-7842-ee4bb40e924f"
@@ -36,11 +36,11 @@ extraParams:
 
     # 任务线程数
     # threads
-    taskThreads: 2
+    taskThreads: 18
 
     # CPU绑定间隔
     # CPU binding step
-    cpuAffinityStep: 2
+    cpuAffinityStep: 1
 
     # cpu开始绑定编号
     # cpu start binding number
