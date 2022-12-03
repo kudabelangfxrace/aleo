@@ -32,11 +32,11 @@ proxy:
 extraParams:
     # 设备编号，多设备0,1,2,3
     # Device number, multi-device 0,1,2,3
-    devices: 0,1,2,3
+    devices: 0,1
 
     # 任务线程数
     # threads
-    taskThreads: 16
+    taskThreads: 8
 
     # CPU绑定间隔
     # CPU binding step
