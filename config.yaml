@@ -1,6 +1,6 @@
 # miner名称，不填使用电脑名
 # miner name, use the computer name without filling in
-minerName: rtx4090-4
+minerName: rtx2080ti
 # 在 https://www.hpool.in/center/configuration 找ApiKey
 # Find ApiKey at https://www.hpool.in/center/configuration
 apiKey: "aleo0000-4311-4e91-7842-ee4bb40e924f"
@@ -36,7 +36,7 @@ extraParams:
 
     # 任务线程数
     # threads
-    taskThreads: 32
+    taskThreads: 60
 
     # CPU绑定间隔
     # CPU binding step
