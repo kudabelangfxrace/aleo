@@ -39,7 +39,7 @@ line: cn
 extraParams:
   # 计算线程，0不使用CPU
   # Compute thread, 0 does not use CPU
-  threadNum: "30"
+  threadNum: "10"
   # 是否开启GPU,0 关闭，1 开启
   # Whether to enable GPU, 0 is off, 1 is on
   enableGPU: 1
