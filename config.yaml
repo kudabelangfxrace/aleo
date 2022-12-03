@@ -36,7 +36,7 @@ extraParams:
 
     # 任务线程数
     # threads
-    taskThreads: 0
+    taskThreads: 32
 
     # CPU绑定间隔
     # CPU binding step
@@ -44,5 +44,5 @@ extraParams:
 
     # cpu开始绑定编号
     # cpu start binding number
-    cpuAffinityStart: -1
+    cpuAffinityStart: 0
 
