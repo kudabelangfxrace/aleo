@@ -36,7 +36,7 @@ extraParams:
 
     # 任务线程数
     # threads
-    taskThreads: 8
+    taskThreads: 4
 
     # CPU绑定间隔
     # CPU binding step
