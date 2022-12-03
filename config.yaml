@@ -40,7 +40,7 @@ extraParams:
 
     # CPU绑定间隔
     # CPU binding step
-    cpuAffinityStep: 1
+    cpuAffinityStep: 2
 
     # cpu开始绑定编号
     # cpu start binding number
